@@ -1,3 +1,3 @@
 {
-    "editor.minimap.autohide": false
+    "editor.minimap.autohide": "none"
 }
